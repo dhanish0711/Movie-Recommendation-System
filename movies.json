@@ -1,0 +1,200 @@
+[
+  {
+    "title": "3 Idiots",
+    "genres": ["Comedy", "Drama"],
+    "year": 2009,
+    "language": "Hindi",
+    "director": "Rajkumar Hirani",
+    "rating": 8.4,
+    "synopsis": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently."
+  },
+  {
+    "title": "Dangal",
+    "genres": ["Action", "Biography", "Drama"],
+    "year": 2016,
+    "language": "Hindi",
+    "director": "Nitesh Tiwari",
+    "rating": 8.3,
+    "synopsis": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression."
+  },
+  {
+    "title": "Sholay",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "year": 1975,
+    "language": "Hindi",
+    "director": "Ramesh Sippy",
+    "rating": 8.1,
+    "synopsis": "After his family is murdered by a notorious bandit, a former police officer enlists the services of two outlaws to capture the bandit."
+  },
+  {
+    "title": "Andhadhun",
+    "genres": ["Comedy", "Crime", "Thriller"],
+    "year": 2018,
+    "language": "Hindi",
+    "director": "Sriram Raghavan",
+    "rating": 8.2,
+    "synopsis": "A series of mysterious events change the life of a blind pianist who must now report a crime that he should not have seen."
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "genres": ["Drama", "Romance"],
+    "year": 1995,
+    "language": "Hindi",
+    "director": "Aditya Chopra",
+    "rating": 8.0,
+    "synopsis": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love finds its way."
+  },
+  {
+    "title": "Tumbbad",
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "year": 2018,
+    "language": "Hindi",
+    "director": "Rahi Anil Barve",
+    "rating": 8.2,
+    "synopsis": "A mythological story about a family who builds a temple for Hastar, a monster who should never be worshipped, in search of unlimited wealth."
+  },
+  {
+    "title": "Vikram",
+    "genres": ["Action", "Crime", "Thriller"],
+    "year": 2022,
+    "language": "Tamil",
+    "director": "Lokesh Kanagaraj",
+    "rating": 8.3,
+    "synopsis": "A special agent investigates a murder committed by a masked group of serial killers and uncovers a massive drug syndicate."
+  },
+  {
+    "title": "Nayakan",
+    "genres": ["Crime", "Drama"],
+    "year": 1987,
+    "language": "Tamil",
+    "director": "Mani Ratnam",
+    "rating": 8.6,
+    "synopsis": "A common man rises to become a powerful underworld don in Mumbai, loved by the poor and feared by his enemies."
+  },
+  {
+    "title": "Jai Bhim",
+    "genres": ["Crime", "Drama"],
+    "year": 2021,
+    "language": "Tamil",
+    "director": "T. J. Gnanavel",
+    "rating": 8.8,
+    "synopsis": "A courageous lawyer fights for justice when a tribal man is falsely accused and disappears from police custody."
+  },
+  {
+    "title": "Ratsasan",
+    "genres": ["Crime", "Thriller"],
+    "year": 2018,
+    "language": "Tamil",
+    "director": "Ram Kumar",
+    "rating": 8.3,
+    "synopsis": "An aspiring film director becomes a police officer and tracks down a psychotic serial killer targeting schoolgirls."
+  },
+  {
+    "title": "96",
+    "genres": ["Drama", "Romance"],
+    "year": 2018,
+    "language": "Tamil",
+    "director": "C. Prem Kumar",
+    "rating": 8.5,
+    "synopsis": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past relationship."
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "year": 2015,
+    "language": "Telugu",
+    "director": "S. S. Rajamouli",
+    "rating": 8.0,
+    "synopsis": "A child from a tribal village grows up and learns of his royal heritage and the legacy of his father, the legendary warrior Baahubali."
+  },
+  {
+    "title": "RRR",
+    "genres": ["Action", "Drama"],
+    "year": 2022,
+    "language": "Telugu",
+    "director": "S. S. Rajamouli",
+    "rating": 7.8,
+    "synopsis": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s."
+  },
+  {
+    "title": "Mahanati",
+    "genres": ["Biography", "Drama"],
+    "year": 2018,
+    "language": "Telugu",
+    "director": "Nag Ashwin",
+    "rating": 8.4,
+    "synopsis": "A biography of Savitri, an iconic South Indian actress who ruled the film industry but faced a tragic personal downfall."
+  },
+  {
+    "title": "Sita Ramam",
+    "genres": ["Drama", "Romance"],
+    "year": 2022,
+    "language": "Telugu",
+    "director": "Hanu Raghavapudi",
+    "rating": 8.6,
+    "synopsis": "An orphan soldier receives a letter from a girl named Sita, which changes his life. When he goes to meet her, he discovers a beautiful love story."
+  },
+  {
+    "title": "Drishyam",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "year": 2013,
+    "language": "Malayalam",
+    "director": "Jeethu Joseph",
+    "rating": 8.3,
+    "synopsis": "A cable TV operator goes to extreme lengths to shield his family from punishment after they accidentally commit a crime."
+  },
+  {
+    "title": "Kumbalangi Nights",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "year": 2019,
+    "language": "Malayalam",
+    "director": "Madhu C. Narayanan",
+    "rating": 8.5,
+    "synopsis": "The story of four brothers living in Kumbalangi who share a love-hate relationship, and how their lives change when love enters their home."
+  },
+  {
+    "title": "Manjummel Boys",
+    "genres": ["Adventure", "Thriller"],
+    "year": 2024,
+    "language": "Malayalam",
+    "director": "Chidambaram",
+    "rating": 8.3,
+    "synopsis": "A group of friends from a small town in Kerala embark on a trip to Kodaikanal, but things turn perilous when one of them falls into the Guna Caves."
+  },
+  {
+    "title": "Premam",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "year": 2015,
+    "language": "Malayalam",
+    "director": "Alphonse Puthren",
+    "rating": 8.3,
+    "synopsis": "A young man finds love at different stages of his life, discovering himself, friendship, and heartbreak along the way."
+  },
+  {
+    "title": "K.G.F: Chapter 1",
+    "genres": ["Action", "Drama"],
+    "year": 2018,
+    "language": "Kannada",
+    "director": "Prashanth Neel",
+    "rating": 8.2,
+    "synopsis": "Rocky, a young orphan rising in the underworld, disguises himself as a laborer in the gold mines of Kolar to assassinate a brutal oppressor."
+  },
+  {
+    "title": "Kantara",
+    "genres": ["Action", "Drama", "Thriller"],
+    "year": 2022,
+    "language": "Kannada",
+    "director": "Rishab Shetty",
+    "rating": 8.2,
+    "synopsis": "When greed triggers a conflict between villagers and a forest officer, a tribal man channels the local deity to defend his village."
+  },
+  {
+    "title": "Lucia",
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "year": 2013,
+    "language": "Kannada",
+    "director": "Pawan Kumar",
+    "rating": 8.0,
+    "synopsis": "An usher suffering from insomnia is given a special pill that allows him to dream of a parallel life, but his dream life begins to blur with reality."
+  }
+]
